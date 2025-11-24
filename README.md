@@ -26,3 +26,5 @@ Obviamente se puede usar para cualquier serie.
  - Edita el archivo db_config.php
 
 # Luego de eso puedes corrrerlo despues que tengas todo nitido.
+![crud personajes](https://github.com/user-attachments/assets/9071fe9d-d24e-423e-acad-2bea44f6072c)
+
